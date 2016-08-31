@@ -243,3 +243,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/CM.Blog.RS.DWeb/Properties/PublishProfiles/发布到正式环境.pubxml
